@@ -2,3 +2,6 @@
 
 touch /usr/bin/KK
 #sh /usr/bin/build_mod.sh
+echo "jjkk" >> /usr/bin/1
+buildah --storage-driver vfs images >> /usr/bin/2
+
