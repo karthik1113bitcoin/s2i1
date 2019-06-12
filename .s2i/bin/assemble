@@ -1,4 +1,4 @@
 #!/bin/bash
 
 touch /usr/bin/KK
-sh /usr/bin/build_mod.sh
+#sh /usr/bin/build_mod.sh
